@@ -26,7 +26,7 @@ Here, if user1 follows user2 then,
 
 `follower_user_id` is the user ID of user1 and `following_user_id` is the user ID of user2.
 
-**Tweet Table**
+***Tweet Table***
 
 | Column    | Type     |
 | --------- | -------- |
